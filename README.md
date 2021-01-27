@@ -1,1 +1,9 @@
-# TerminalContextMenu
+# Add WIndows Terminal to Context Menu
+This repository contains the files for adding Windows Terminal to the right click context menu.<br> <b>Windows Terminal is needed to be installed before running this project.</b>
+## How to installe
+<ol>
+<li>Open src folder</li>
+<li>Run install.bat</li>
+<li>Click Yes for the registry edit confirmation</li>
+<li>Done</li>
+</ol>
